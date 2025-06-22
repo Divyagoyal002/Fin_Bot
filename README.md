@@ -1,5 +1,5 @@
 
-# RAG Chatbot for Fitnechd 
+# RAG Chatbot for Fitnech
 
 A Retrieval-Augmented Generation (RAG) chatbot designed for **Fitnechd** using vector-based semantic search to provide precise answers from PDF documents. Built using **FAISS**, **LangChain**, and **Google Generative AI embeddings**, this chatbot can parse PDFs, chunk data, index it semantically, and deliver context-aware responses.
 
