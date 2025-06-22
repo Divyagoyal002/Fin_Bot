@@ -1,0 +1,56 @@
+# Core Python and utility libraries
+numpy
+pandas
+tqdm
+python-dotenv
+loguru
+
+# AI / ML Core
+scikit-learn
+xgboost
+sentence-transformers
+torch
+transformers
+accelerate
+
+# LangChain and vector search
+langchain
+openai
+faiss-cpu  # if you want GPU, install via conda: faiss-gpu
+chromadb
+duckdb
+
+# Embedding models
+unstructured
+llama-index
+
+# Text extraction / processing
+beautifulsoup4
+lxml
+pdfminer.six
+PyMuPDF
+pytesseract
+python-docx
+docx2txt
+
+# FastAPI / API
+fastapi
+uvicorn
+httpx
+
+# Streamlit UI
+streamlit
+streamlit-chat
+watchdog
+
+# Dev tools
+ipython
+jupyterlab
+black
+ruff
+
+# Optional: For local LLM inference (like Mistral, LLaMA2)
+ctransformers
+auto-gptq==0.3.2  # This version tends to be stable
+einops
+peft
